@@ -6,3 +6,5 @@ https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttR
 
 Aqui puedes ver el producto final:
 https://responsiveproduct-card.netlify.app/
+
+![desktop-preview](https://github.com/VickyAzola/ResponsiveProductCard/assets/116470398/8336df2e-fa5b-49db-821c-dc553e2e568e)
