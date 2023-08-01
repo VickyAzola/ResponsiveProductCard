@@ -104,7 +104,6 @@ p {
         grid-template-columns: 1fr 1fr; 
         margin-inline: 1rem; 
         border-radius: 1rem;
-        box-shadow: .5rem 1rem 3rem hsla(240, 10%, 29%, 20%);
     }
 
     .img-movil {display: none;}
@@ -120,5 +119,5 @@ p {
 }
 
 
-.attribution { font-size: 11px; text-align: center; padding: 2rem 0;}
+.attribution { font-size: 11px; text-align: center; padding: 1rem 0;}
 .attribution a { color: hsl(228, 45%, 44%); }
